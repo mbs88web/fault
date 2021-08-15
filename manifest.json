@@ -1,0 +1,92 @@
+{
+	"short_name": "VIVA99",
+	"name": "VIVA99",
+	"icons": [
+				{
+					"src": "https://totaltabs.com/pwa/android-icon-192x192.png",
+					"type": "image/png",
+					"sizes": "192x192",
+					"purpose": "any maskable"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/situs-judi-online.webp",
+					"type": "image/png",
+					"sizes": "512x512"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-57x57.png",
+					"type": "image/png",
+					"sizes": "57x57"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-60x60.png",
+					"type": "image/png",
+					"sizes": "60x60"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-72x72.png",
+					"type": "image/png",
+					"sizes": "72x72"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-76x76.png",
+					"type": "image/png",
+					"sizes": "76x76"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-114x114.png",
+					"type": "image/png",
+					"sizes": "114x114"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-120x120.png",
+					"type": "image/png",
+					"sizes": "120x120"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-114x114.png",
+					"type": "image/png",
+					"sizes": "114x114"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-152x152.png",
+					"type": "image/png",
+					"sizes": "152x152"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/apple-icon-180x180.png",
+					"type": "image/png",
+					"sizes": "180x180"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/android-icon-192x192.png",
+					"type": "image/png",
+					"sizes": "192x192"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/favicon-32x32.png",
+					"type": "image/png",
+					"sizes": "32x32"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/favicon-96x96.png",
+					"type": "image/png",
+					"sizes": "96x96"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/favicon-16x16.png",
+					"type": "image/png",
+					"sizes": "16x16"
+				},
+				{
+					"src": "https://totaltabs.com/pwa/ms-icon-144x144.png",
+					"type": "msapplication-TileImage",
+					"sizes": "144x144"
+				}
+		],
+			"start_url": "https://totaltabs.com/index.html",
+			"background_color": "#222325",
+			"display": "standalone",
+			"scope": "/",
+			"theme_color": "#222325"
+}
